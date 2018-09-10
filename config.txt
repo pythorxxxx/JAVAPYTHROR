@@ -1,0 +1,7 @@
+token=BOT_TOKEN
+owner=326099411853901824
+prefix=1
+game=Type 1play
+stayinchannel=true
+songinstatus=true
+owner=326099411853901824
